@@ -1,4 +1,4 @@
-# Jupyter Notebooks for Fun and Entertainment
+# Jupyter Notebooks for Fun and Profit
 
 ## Conda Create
 
